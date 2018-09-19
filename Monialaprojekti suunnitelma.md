@@ -1,19 +1,18 @@
 ![](media/c50a3dd031e55342d68a1896a6911045.jpg)
 
-Virusturvan ja IDS:n ohittaminen  <br/>
+Virusturvan ja IDS:n ohittaminen
 
 
 Tommi Timonen
 
-Aleksi Salminen  <br/>
+Aleksi Salminen
 
 
 Projektisuunnitelma
 
 Monialaprojekti
 
-19.09.2018  <br/>
-
+19.09.2018
 
 
 # Sisällys
