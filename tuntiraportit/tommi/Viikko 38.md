@@ -7,4 +7,4 @@ Aloituskokouksen pitäminen ja sen muistiinpanojen luonti. Esittelyviestin luont
 
 ### Keskiviikko 19.09.2018 Klo 16:15-17:15
 Tommi
-Projektisuunnitelman päivitystä ja aikataulujen tarkempaa sopimista.
+Projektisuunnitelman päivitystä ja aikataulujen tarkempaa sopimista. Päivitetty aikataulu ja suunnitelma laitettu moodleen.
