@@ -5,6 +5,6 @@ Tommi ja Aleksi
 Aloituskokouksen pitäminen ja sen muistiinpanojen luonti. Esittelyviestin luonti ja julkaisu.  
 
 
-### Keskiviikko 19.09.2018 Klo 16:15-17:15
+### Keskiviikko 19.09.2018 Klo 16:15-17:15 yht: 1,5h
 Tommi
 Projektisuunnitelman päivitystä ja aikataulujen tarkempaa sopimista. Päivitetty aikataulu ja suunnitelma laitettu moodleen.
