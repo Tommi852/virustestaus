@@ -29,3 +29,8 @@ Ohjauskokouksessa saimme Terolta kritiikkiä työaikojen puuttumisesta, joten so
 
 Olemme nyt hieman jäljessä aikataulusta sillä selvitykset käytettävistä ohjelmista piti tehdä tällä viikolla.
 Terolta ohjauskokouksessa saatujen ohjelmisto vinkkien perusteella pääsemme kuitenkin varmasti nopeasti vauhtiin ja kiristämme tämän viikon työtahtia niin, että saisimme aikataulun taas kiinni.
+  
+  
+## Viikon 38 kokouspöytäkirja  
+Viikon 38 kokouspöytäkirja löytyy täältä:  
+[https://github.com/Tommi852/virustestaus/blob/master/kokouspoytakirjat/kokouspoutakirja%20viikko%2038.md](https://github.com/Tommi852/virustestaus/blob/master/kokouspoytakirjat/kokouspoutakirja%20viikko%2038.md)
