@@ -10,7 +10,7 @@ Aloituskokouksen pitäminen ja sen muistiinpanojen luonti. Esittelyviestin luont
 Keskiviikko 19.09.2018 Klo 16:15-17:15 yht: 1,5h
 Projektisuunnitelman päivitystä ja aikataulujen tarkempaa sopimista. Päivitetty aikataulu ja suunnitelma laitettu moodleen.
 
-##### Tunnit yhteensä: 3h
+#### Tunnit yhteensä: 3h
 
 ### Aleksi
 
