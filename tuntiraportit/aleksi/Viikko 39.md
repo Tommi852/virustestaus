@@ -5,5 +5,5 @@
 Viikko 38 raportin luonti, edellisen viikon pöytäkirjan korjaus ja lisäys.
 * Klo 12:00-13.45 yht: 1h45min
 Muistiinpanojen tekoa ja kokous
-* Klo 18:00-**
-Kokouspöytäkirjan puhtaaksikirjotus
+* Klo 18:00-**  
+Kokouspöytäkirjan puhtaaksikirjotus  
