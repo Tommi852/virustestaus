@@ -9,6 +9,7 @@ Tommi Timonen
 Aleksi Salminen  
 Tero Karvinen  
 
+## Kokousmuistio
 
 Pidimme aloituskokouksen Tero Karvisen ohjauksella ja keskustelimme siellä projektista, sen aikataulutuksesta ja työvälineistä. Tero kertoi paljon hyviä työvälineitä projektia varten ja tapoja joilla edetä projektissa aikataulunmukaisesti. Ensiksi mietimme virtuaalikoneita ja niihin asennettavia virusturvia, jotta saisimme kohteeksemme stabiilin kohteen joka ei päivity koko ajan. Kokouksessa puhuimme Kasperskin ja Suricatan käytöstä johon myös päädyttiin.  
 
