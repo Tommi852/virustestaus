@@ -35,6 +35,12 @@ Tero Karvinen
 **Tekijät**: Aleksi Salminen  
 **Määräaika**: Viikko 39, lauantai 29.09.2018  
 **Lopputulos**: VirtualBoxiin .Ova virtuaalikone, jossa valmiiksi asennettu F-Secure virustorjunta.  
+  
+**Tehtävä 4**: Laatikoiden testaus yksinkertaisella haittaohjelmalla  
+**Kuvaus**: Testataan luodut .Ova koneet yksinkertaisella msfvenomilla tehdyllä meterpreter reverse_tcp haittaohjelmalla.  
+**Tekijät**: Aleksi Salminen & Tommi Timonen  
+**Määräaika**: Viikko 39, lauantai 29.09.2018  
+**Lopputulos**: Testattu virustorjuntojen toimivuus haittaohjelmalla.  
 
 
 VirtualBoxien teko ja virusturvan asentaminen testaamista varten.  
