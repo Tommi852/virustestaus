@@ -28,7 +28,7 @@ Tehdyt työtunnit jäivät vajaaksi alunperin huonosti suunnitellun projektiaika
 Ohjauskokouksessa saimme Terolta kritiikkiä työaikojen puuttumisesta, joten sovimme joka viikolle työajat joiden aikana keskitymme projektiin. Sovitut työajat on päivitetty projektisuunnitelmaan, sekä aikataulu on päivitetty haittaohjelman luonti painotteiseksi.
 
 Olemme nyt hieman jäljessä aikataulusta sillä selvitykset käytettävistä ohjelmista piti tehdä tällä viikolla.
-Terolta ohjauskokouksessa saatujen ohjelmisto vinkkien perusteella pääsemme kuitenkin varmasti nopeasti vauhtiin ja kiristämme tämän viikon työtahtia niin, että saisimme aikataulun taas kiinni.
+Terolta ohjauskokouksessa saatujen ohjelmisto vinkkien perusteella pääsemme kuitenkin varmasti nopeasti vauhtiin ja kiristämme viikon 39 työtahtia niin, että saisimme aikataulun taas kiinni.
   
   
 ## Viikon 38 kokouspöytäkirja  
