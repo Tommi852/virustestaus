@@ -7,7 +7,6 @@ Raportoinnista tiedustelu
 * Pöytäkirjat moodleen?
 * kokouksista ilmoittaminen päivää ennen joka viikko?  
 Yleinen katsaus projektin etenemiseen.
-* Työnjako
 
 
 ## Paikallaolijat
