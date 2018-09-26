@@ -32,7 +32,7 @@ Tero Karvinen
 
 **Tehtävä 3**: VirtualBox .Ova F-Secure laatikko  
 **Kuvaus**: Asennetaan VirtualBoxiin modern.ie virtuaalikoneen pohjalle F-Secure virustestausta varten.  
-**Tekijät**: Aleksi Salminen 
+**Tekijät**: Aleksi Salminen  
 **Määräaika**: Viikko 39, lauantai 29.09.2018  
 **Lopputulos**: VirtualBoxiin .Ova virtuaalikone, jossa valmiiksi asennettu F-Secure virustorjunta.  
 
