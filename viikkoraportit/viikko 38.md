@@ -25,7 +25,7 @@ Torstai 20.09.2018:
 ## Viikon yhteenveto
 
 Tehdyt työtunnit jäivät vajaaksi alunperin huonosti suunnitellun projektiaikataulun takia.
-Ohjauskokouksessa saimme Terolta kritiikkiä työaikojen puuttumisesta, joten sovimme joka viikolle työajat joiden aikana keskitymme projektiin.
+Ohjauskokouksessa saimme Terolta kritiikkiä työaikojen puuttumisesta, joten sovimme joka viikolle työajat joiden aikana keskitymme projektiin. Sovitut työajat on päivitetty projektisuunnitelmaan, sekä aikataulu on päivitetty haittaohjelman luonti painotteiseksi.
 
 Olemme nyt hieman jäljessä aikataulusta sillä selvitykset käytettävistä ohjelmista piti tehdä tällä viikolla.
 Terolta ohjauskokouksessa saatujen ohjelmisto vinkkien perusteella pääsemme kuitenkin varmasti nopeasti vauhtiin ja kiristämme tämän viikon työtahtia niin, että saisimme aikataulun taas kiinni.
