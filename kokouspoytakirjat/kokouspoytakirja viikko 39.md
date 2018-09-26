@@ -6,8 +6,8 @@ Raportoinnista tiedustelu
 * Viikkoraportin laajuus
 * Pöytäkirjat moodleen?
 * kokouksista ilmoittaminen päivää ennen joka viikko?
-* Yleinen katsaus projektin etenemiseen.
-* 
+Yleinen katsaus projektin etenemiseen.
+
 
 ## Paikallaolijat
 Tommi Timonen  
