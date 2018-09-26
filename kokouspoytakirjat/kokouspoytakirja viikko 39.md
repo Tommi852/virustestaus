@@ -21,7 +21,7 @@ Tero Karvinen
 Viikon 38 kokouksessa käytyjen ohjelmistojen läpikäynti ja tutkiminen.  
 VirtualBoxien teko ja virusturvan asentaminen testaamista varten.  
 Yksinkertaisella viruksella virustorjunnan ja IDS:n testaus.  
-*Tekijät*: Tommi Timonen ja Aleksi Salminen  
-*Määräaika*: Viikko 39, lauantai 29.09.2018  
-*Lopputulos*: Toimivat laatikot haittaohjelman testaamista varten ja dokumentit asennusten onnistumisesta.  
+**Tekijät**: Tommi Timonen ja Aleksi Salminen  
+**Määräaika**: Viikko 39, lauantai 29.09.2018  
+**Lopputulos**: Toimivat laatikot haittaohjelman testaamista varten ja dokumentit asennusten onnistumisesta.  
 
