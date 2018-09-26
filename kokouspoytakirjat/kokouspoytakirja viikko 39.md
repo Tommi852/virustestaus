@@ -5,7 +5,7 @@ Raportoinnista tiedustelu
 * Käykö pelkkä githubiin päivittäminen
 * Viikkoraportin laajuus
 * Pöytäkirjat moodleen?
-* kokouksista ilmoittaminen päivää ennen joka viikko?
+* kokouksista ilmoittaminen päivää ennen joka viikko?  
 Yleinen katsaus projektin etenemiseen.
 
 
