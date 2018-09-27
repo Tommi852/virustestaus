@@ -55,3 +55,25 @@ Useita virtual boxeja tarvitaan eri virustutkille
 Tarkka työnjako henkilöille ja määräajat  
 Dokumentointi ja kuvailu lopputuotteesta  
 Raportin palautus maanantaisin  
+
+# Kokouspöytäkirja viikko 39, Keskiviikko 26.09.2018  
+
+## Esityslista  
+Raportoinnista tiedustelu  
+* Käykö pelkkä githubiin päivittäminen  
+* Viikkoraportin laajuus  
+* Pöytäkirjat moodleen?  
+* kokouksista ilmoittaminen päivää ennen joka viikko?    
+Tapaaminen luokassa 5004  
+
+## Paikallaolijat
+Tommi Timonen  
+Aleksi Salminen  
+Tero Karvinen  
+
+## Kokousmuistio
+Pidimme ohjauskokouksen Tero Karvisen ohjeistuksella keskiviikkona jossa kävimme läpi projektin seurannan menetelmiä.  
+Puhuimme esityslistan mukaan tuleeko moodleen palauttaa erillinen raportti viikosta vai käykö linkki githubiin,  
+päädyimme tulokseen että helpompaa katsoa vain moodlesta onko viikolla tehty jotain vai ei. Viikkoraportin laajuudesta  
+laajuudesta puhuttiin kuten pöytäkirjan sisällyttäminen siihen ja päätettiin laittaa myös se joka viiko viikkoraportin  
+yhteyteen. Kokouksista ja sen esityslistoista päätimme että ilmoitamme joka kerta päivää ennen.
