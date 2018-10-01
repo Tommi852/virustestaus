@@ -31,10 +31,13 @@ Muistiinpanojen tekoa ja kokous
 * Klo 18:00-19:00 yht: 1h  
 Kokouspöytäkirjan puhtaaksikirjotus  
 #### Torstai 27.09.2018
- * Klo 11:00-12:00 yht: 1h
+* Klo 11:00-12:00 yht: 1h
  Avastin asennus
+#### Sunnuntai 31.09.2018  
+* Klo 18:00-19:30 yht: 1h30min  
+Tutustumista ja tutkimista aiheista msfvenom, meterpreter ja suricata
 
-#### Tunnit yhteensä: 5h 15min
+#### Tunnit yhteensä: 6h 45min
 
 ## Viikon yhteenveto
 
