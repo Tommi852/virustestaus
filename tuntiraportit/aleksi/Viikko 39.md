@@ -1,4 +1,4 @@
-# Tommin tuntiraportti viikko 39, IDS ja virusturvan ohittaminen
+# Aleksin tuntiraportti viikko 39, IDS ja virusturvan ohittaminen
 
 ### Keskiviikko 26.09.2018
 * Klo 9:30-11:00 yht: 1h30min
