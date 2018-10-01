@@ -10,3 +10,6 @@ Kokouspöytäkirjan puhtaaksikirjotus
  ### Torstai 27.09.2018
  * Klo 11:00-12:00 yht: 1h
  Avastin asennus
+ ### Sunnuntai 31.09.2018
+ * Klo 18:00-19:30 yht: 1h30min
+ msfvenomin, meterpreterin ja suricatan tutkimista
