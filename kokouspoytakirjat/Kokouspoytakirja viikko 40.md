@@ -21,5 +21,12 @@ Tapaaminen luokassa 5004
 **Lopputulos**: Kummatkin projektin jäsenet pystyvät luomaan yksinkertaisen haittaohjelman ja obfuskoimaan sen.  
 
 ## Kokousmuistio:  
+Muistiinpanot kokouksesta  
 
+virustorjuntojen tutkiminen  
+ilmaisversijoiden mainitsiminen  
+eri kielien vaikeuserot  
+powershell? estojen ohitus  
+hack5?  
+Tunteja tehdään liian vähän, ryhdistätytykää  
 
