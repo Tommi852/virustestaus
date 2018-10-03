@@ -1,11 +1,10 @@
 # Kokouspöytäkirja viikko 40, Keskiviikko 03.10.2018  
 
 ## Esityslista  
+Yleinen katsaus projektin etenemiseen.  
+* Viime viikon työskentely jäi hiukan vajaaksi, mutta .Ova tiedostot saatiin tehtyä.
+* Seuraavana vaiheena haittaohjelman luomisen harjoittelu
   
-  
-Yleinen katsaus projektin etenemiseen.
-
-
 ## Paikallaolijat
 Tommi Timonen  
 Aleksi Salminen  
