@@ -1,7 +1,7 @@
 # Tommin tuntiraportti viikko 40, IDS ja virusturvan ohittaminen
 
 ### Keskiviikko 03.10.2018
-* Klo 12:00-15:15 **yht: 3h 15min*  
+* Klo 12:00-15:15 **yht: 3h 15min**  
 Msfvenomilla troijalaisen teko ja enkoodauksen testaaminen, sekä Unicornilla koitettu piilottaa ohjelma virustorjunnalta.  
 Kummatkin haittaohjelmat toimivat ilman virustorjuntaa ja antoivat etähallinan, paitsi Avastilla varustettu virtuaalikone ei antanut virusten suoriutua vaikka suojaus oli otettu pois päältä.  
 Virustorjunnat päällä ei troijalainen toiminut kummallakaan virtuaalikoneella.  
