@@ -10,5 +10,8 @@ https://www.offensive-security.com/metasploit-unleashed/msfvenom/
 Firefox salasanojen varastus:  
 https://null-byte.wonderhowto.com/how-to/hacking-windows-10-steal-decrypt-passwords-stored-chrome-firefox-remotely-0183600/  
 
+Tatu Erkinjuntin Unicornilla ohitus:  
+http://www.erkinjuntti.eu/studies/penetration-testing-course/exercise-6/  
+
 
 
