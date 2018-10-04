@@ -5,3 +5,8 @@
 Msfvenomilla troijalaisen teko ja enkoodauksen testaaminen, sekä Unicornilla koitettu piilottaa ohjelma virustorjunnalta.  
 Kummatkin haittaohjelmat toimivat ilman virustorjuntaa ja antoivat etähallinan, paitsi Avastilla varustettu virtuaalikone ei antanut virusten suoriutua vaikka suojaus oli otettu pois päältä.  
 Virustorjunnat päällä ei troijalainen toiminut kummallakaan virtuaalikoneella.  
+  
+
+### Torstai 04.10.2018
+* Klo 12:00-null **yht: null**  
+
