@@ -16,5 +16,5 @@ Repon latauduttua navigoidaan kansioon Empire/setup
 Tässä kansiossa tiedosto "install.sh", jonka ajamalla voimme asentaa PowerShell Empiren.
 Ajamme siis asennuksen komennolla: ***./install.sh***
 Asennus kysyy jonkin ajan päästä salasanaa, jota käytetään palvelimen neuvotteluun.  
-Tämän jälkeen asennus onkin valmis ja pääsemme käyttämään PowerShell Empireä ja voimme käynnistää sen Empire kansiosta komennolla: ***./empire***  
+Tämän jälkeen asennus onkin valmis ja pääsemme käyttämään PowerShell Empireä ja voimme käynnistää sen Empire kansiosta komennolla: **./empire**  
 
