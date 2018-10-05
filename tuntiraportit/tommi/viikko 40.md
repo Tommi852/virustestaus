@@ -12,5 +12,10 @@ Virustorjunnat päällä ei troijalainen toiminut kummallakaan virtuaalikoneella
 Pikainen katsaus PowerShell Empire toimintaan koulussa, mutta luokkassa, jossa töitä teimme alkoikin tunti ja jouduimme keskeyttämään.  
 
 ### Perjantai 05.10.2018  
-* Klo 14:00-null **yht: null**  
+* Klo 14:00-19:00 **yht: 5h**
+Kalin asennus pysyvästi koneelle, Powershell Empiren ja VirtualBoxin asennus koneelle.
+Leikitty PowerShell Empirellä. Testattu erilaisia moduuleja ja kuuntelijoita. Meterpreter kuuntelija moduuli on buginen ja sitä ei kannata käyttää.  
+HTTP agentti toimii hyvin, mutta Kaspersky havaitsee käynnistys scriptin. Itse yhteyttä Kaspersky ei tosin huomaa.  
+Virusskannerin tarkistus moduuli toimi hyvin ja Kaspersky ei huomannut sen pyöräytystä moduulien kautta.  
+
 
