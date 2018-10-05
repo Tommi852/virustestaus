@@ -8,5 +8,9 @@ Virustorjunnat päällä ei troijalainen toiminut kummallakaan virtuaalikoneella
   
 
 ### Torstai 04.10.2018
-* Klo 12:00-null **yht: null**  
+* Klo 12:00-12:30 **yht: 30min**  
+Pikainen katsaus PowerShell Empire toimintaan koulussa, mutta luokkassa, jossa töitä teimme alkoikin tunti ja jouduimme keskeyttämään.  
+
+### Perjantai 05.10.2018  
+* Klo 14:00-null **yht: null**  
 
