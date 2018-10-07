@@ -20,6 +20,7 @@ Virusskannerin tarkistus moduuli toimi hyvin ja Kaspersky ei huomannut sen pyör
 
 
 ### Sunnuntai 07.10.2018  
-* Klo 16:00-null **yht: null h**  
+* Klo 16:00-18:30 **yht: 2h 30min**  
+Onnistuneesti ohitettu Avast virustorjunta Unicornin avulla. Dokumentaatio pitää hioa vielä.  
 
 
