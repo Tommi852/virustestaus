@@ -21,12 +21,9 @@ Tapaaminen luokassa 5004
 **Lopputulos**: Kummatkin projektin jäsenet pystyvät luomaan yksinkertaisen haittaohjelman ja obfuskoimaan sen.  
 
 ## Kokousmuistio:  
-Muistiinpanot kokouksesta  
+Viikottainen kokous pidettiin taas keskiviikkona 3.10. jossa keskustelimme projektin etenemisestä ja vaihtoehdoista.  
+Päädyimme käyttämään päätyökaluna powershelliä ja keskustelimme myös että eri virustorjuntoja kannattaisi tutkia  
+sekä mainita jos käytössä on ilmaisversio. Lähinnä päällisenä asiana keskustelussa tuli esiin liian vähät tunnit ja  
+että olisi hyvä alkaa tekemään tarvittava määrä, tai ainakin parantaa tämänhetkistä ajankäyttöä.  
 
-virustorjuntojen tutkiminen  
-ilmaisversijoiden mainitsiminen  
-eri kielien vaikeuserot  
-powershell? estojen ohitus  
-hack5?  
-Tunteja tehdään liian vähän, ryhdistätytykää  
 
