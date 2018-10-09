@@ -11,4 +11,6 @@ Pikainen katsaus PowerShell Empire toimintaan koulussa, mutta luokkassa, jossa t
 
 ### Perjantai 05.10.2018
 * klo 12:00-14:30 **yht_ 2h30min**
-Powershell empirellä leikkimistä livetikun kanssa kotona ja harjoittelua ylipäättäänsä
+Powershell empirellä leikkimistä livetikun kanssa kotona ja harjoittelua ylipäättäänsä  
+  
+## Tunnit yhteensä: 6h 9min
