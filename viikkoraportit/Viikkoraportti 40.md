@@ -41,10 +41,12 @@ Sain tehtyä yksinkertaisen hyökkäyksen virusturvan ollessa pois käytöstä m
 Pikainen katsaus PowerShell Empire toimintaan koulussa, mutta luokkassa, jossa töitä teimme alkoikin tunti ja jouduimme keskeyttämään.
 
 #### Perjantai 05.10.2018
-* klo 12:00-14:30 **yht_ 2h30min**
+* klo 12:00-14:30 **yht: 2h30min**
 Powershell empirellä leikkimistä livetikun kanssa kotona ja harjoittelua ylipäättäänsä  
   
 #### Tunnit yhteensä: 6h 9min
 
-
+## Viikon yhteenveto:
+Projekti on saanut tuulta enemmän alleen ja ensimmäinen virusturvan ohitus on tapahtunut Unicornin avustuksella.  
+Projekti on muutamasta kovalevyn rikkomisesta huolimatta hyvässä vauhdissa.
 
