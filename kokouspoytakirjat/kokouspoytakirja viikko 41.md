@@ -33,13 +33,16 @@ Tapaaminen luokassa 5004
 **Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
 
 
-## Kokousmuistio:  
-keyloggerin kokeilu meterpreterillä
-windows 10 estää jtn powershell toimintoja
-tiedostojen lataus ja purkaminen
-mimikatz
-passthepass
-keypass lastpass
+## Kokousmuistio
+
+- keyloggerin kokeilu meterpreterillä  
+- windows 10 estää jtn powershell toimintoja  
+- tiedostojen lataus ja purkaminen  
+
+
+mimikatz  
+passthepass  
+keypass lastpass  
 lsoffilla keypass
 suora payload ilman interatk yhteyttä
 oma ohjelma joka suorittaa yhden jutun
