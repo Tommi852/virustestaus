@@ -3,3 +3,9 @@
 ### Maanantai 08.10.2018
 * Klo 13:00-15:00 **yht: 2h**  
 Kovalevy rikosta johtuen Kali Linuxin uudelleen asennus koneelle ja kaikkien päivitysten ja tarpeellisten ohjelmien uudelleen asennus.  
+
+
+### Keskiviikko 10.10.2018
+* Klo 12:00-null **yht: 0h**  
+PowerShell Empiren testaaminen HTTPS yhteyttä käyttäen.  
+Viikkokokouksen pitäminen.
