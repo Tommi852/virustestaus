@@ -39,10 +39,10 @@ Tapaaminen luokassa 5004
 - windows 10 estää jtn powershell toimintoja  
 - tiedostojen lataus ja purkaminen  
 - mimikatz  
-- passthepass  
+- passthehash  
 - keypass lastpass  
 - lsoffilla keypass
-- suora payload ilman interatk yhteyttä
+- suora payload ilman interact yhteyttä
 - oma ohjelma joka suorittaa yhden jutun
 - tommin hyvä suunitelma
 - xor
