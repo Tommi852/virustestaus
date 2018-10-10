@@ -12,7 +12,7 @@ Tero Karvinen
 Tapaaminen luokassa 5004  
 
   
-## Viikon 40 tehtävät:  
+## Viikon 41 tehtävät:  
 
 **Tehtävä 1**: PowerShell Empire moduuleihin tutustumista  
 **Kuvaus**: Tutustumme PowerShellin eri moduuleihin ja niiden käyttöön  
