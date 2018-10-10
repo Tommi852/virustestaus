@@ -38,29 +38,27 @@ Tapaaminen luokassa 5004
 - keyloggerin kokeilu meterpreterillä  
 - windows 10 estää jtn powershell toimintoja  
 - tiedostojen lataus ja purkaminen  
-
-
-mimikatz  
-passthepass  
-keypass lastpass  
-lsoffilla keypass
-suora payload ilman interatk yhteyttä
-oma ohjelma joka suorittaa yhden jutun
-tommin hyvä suunitelma
-xor
-meterpreterin itse kääntäminen esimerkki
-raportointi kokoajan
-vauhtii lisää
-powershell komento jolla suoraan tiedosto
-scp?
-windowsin työkalujen tutkiminen bat tiedostojen takia
-file upload?
-telnetin putkitus?
-ftp:n käyttö?
-kryptattu zippi paketti?
-IE komentoriviltä käyttö?
-testausten dokumenotointi
-the end?
+- mimikatz  
+- passthepass  
+- keypass lastpass  
+- lsoffilla keypass
+- suora payload ilman interatk yhteyttä
+- oma ohjelma joka suorittaa yhden jutun
+- tommin hyvä suunitelma
+- xor
+- meterpreterin itse kääntäminen esimerkki
+- raportointi kokoajan
+- vauhtii lisää
+- powershell komento jolla suoraan tiedosto
+- scp?
+- windowsin työkalujen tutkiminen bat tiedostojen takia
+- file upload?
+- telnetin putkitus?
+- ftp:n käyttö?
+- kryptattu zippi paketti?
+- IE komentoriviltä käyttö?
+- testausten dokumenotointi
+- the end?
 
 
 
