@@ -14,17 +14,18 @@ Tapaaminen luokassa 5004
   
 ## Viikon 40 tehtävät:  
 
-**Tehtävä 1**: PowerShell Empire moduuleihin tutustumista
-**Kuvaus**: Tutustumme PowerShellin eri moduuleihin ja niiden käyttöön
+**Tehtävä 1**: PowerShell Empire moduuleihin tutustumista  
+**Kuvaus**: Tutustumme PowerShellin eri moduuleihin ja niiden käyttöön  
 **Tekijät**: Tommi Timonen ja Aleksi Salminen  
 **Määräaika**: Viikko 41, sunnuntai 13.10.2018  
-**Lopputulos**: Kummatkin projektin jäsenet tuntevat moduulit
+**Lopputulos**: Kummatkin projektin jäsenet tuntevat moduulit  
 
-**Tehtävä 2**: PowerShell Empire standalone moduulien ajon testaus
-**Kuvaus**: Pyrimme tekemään powershellillä standalone moduulien ajoa.
+**Tehtävä 2**: PowerShell Empire standalone moduulien ajon testaus  
+**Kuvaus**: Pyrimme tekemään powershellillä standalone moduulien ajoa.  
 **Tekijät**: Tommi Timonen ja Aleksi Salminen  
 **Määräaika**: Viikko 41, sunnuntai 13.10.2018  
-**Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.
+**Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
+
 
 
 ## Kokousmuistio:  
