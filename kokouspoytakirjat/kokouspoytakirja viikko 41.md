@@ -14,23 +14,20 @@ Tapaaminen luokassa 5004
   
 ## Viikon 41 tehtävät:  
 
-**Tehtävä 1**: PowerShell Empire moduuleihin tutustumista  
-**Kuvaus**: Tutustumme PowerShellin eri moduuleihin ja niiden käyttöön  
-**Tekijät**: Tommi Timonen ja Aleksi Salminen  
-**Määräaika**: Viikko 41, sunnuntai 13.10.2018  
-**Lopputulos**: Kummatkin projektin jäsenet tuntevat moduulit  
+Tehtävä 1: Powershell scripti  
+Kuvaus: Powershell scripti, joka kopioi tiedostot  
+Tekijät: Tommi Timonen  
+Määräaika: Viikko 41, sunnuntai 13.10.2018  
+Lopputulos: Itse tehty Powershell scripti, joka kopioi tiedostoja ja lähettää ne scp:llä tai FTP:llä.  
 
-**Tehtävä 2**: PowerShell Empire standalone moduulien ajon testaus  
-**Kuvaus**: Pyrimme tekemään PowerShell Empirellä standalone moduulien ajoa.  
-**Tekijät**: Tommi Timonen ja Aleksi Salminen  
-**Määräaika**: Viikko 41, sunnuntai 13.10.2018  
-**Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
+Tehtävä 2: Mimikatz PowerShell Empirella  
+Kuvaus: Tehtävänä tutustua Mimikatzin toimintaan PowerShell Empiressä ja sen testaamista käytössä. Mahdollisesti myös hyödyntäminen omissa scripteissä.  
+Tekijät: Aleksi Salminen  
+Määräaika: Viikko 41, sunnuntai 13.10.2018  
+Lopputulos: Mimikatzin tuntemus ja mahdollisesti hyödyntäminen tiedostojen varastamisessa.  
 
-**Tehtävä 3**: PowerShell Empire ohjelmilla virustorjunnan ohitus  
-**Kuvaus**: Pyrimme tekemään PowerShell Empirellä ohjelman, joka ohittaa virustorjunnan.  
-**Tekijät**: Tommi Timonen ja Aleksi Salminen  
-**Määräaika**: Viikko 41, sunnuntai 13.10.2018  
-**Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
+
+
 
 
 ## Kokousmuistio
