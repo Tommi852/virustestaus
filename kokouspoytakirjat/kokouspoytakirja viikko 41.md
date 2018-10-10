@@ -21,11 +21,16 @@ Tapaaminen luokassa 5004
 **Lopputulos**: Kummatkin projektin jäsenet tuntevat moduulit  
 
 **Tehtävä 2**: PowerShell Empire standalone moduulien ajon testaus  
-**Kuvaus**: Pyrimme tekemään powershellillä standalone moduulien ajoa.  
+**Kuvaus**: Pyrimme tekemään PowerShell Empirellä standalone moduulien ajoa.  
 **Tekijät**: Tommi Timonen ja Aleksi Salminen  
 **Määräaika**: Viikko 41, sunnuntai 13.10.2018  
 **Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
 
+**Tehtävä 2**: PowerShell Empire ohjelmilla virustorjunnan ohitus  
+**Kuvaus**: Pyrimme tekemään PowerShell Empirellä ohjelman, joka ohittaa virustorjunnan.  
+**Tekijät**: Tommi Timonen ja Aleksi Salminen  
+**Määräaika**: Viikko 41, sunnuntai 13.10.2018  
+**Lopputulos**: Saadaan standalonena PowerShell Empire moduuli toimimaan koneella ilman erillistä käskyä.  
 
 
 ## Kokousmuistio:  
