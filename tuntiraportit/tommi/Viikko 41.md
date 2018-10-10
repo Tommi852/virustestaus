@@ -6,6 +6,7 @@ Kovalevy rikosta johtuen Kali Linuxin uudelleen asennus koneelle ja kaikkien pä
 
 
 ### Keskiviikko 10.10.2018
-* Klo 12:00-null **yht: 0h**  
+* Klo 12:00-15:00 **yht: 3h**  
 PowerShell Empiren testaaminen HTTPS yhteyttä käyttäen.  
-Viikkokokouksen pitäminen.
+Viikkokokouksen pitäminen.  
+Pikainen katsaus Mimikatziin, PowerShell työkaluihin ja Go Languageen.
