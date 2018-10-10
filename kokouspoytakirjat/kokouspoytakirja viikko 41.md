@@ -3,7 +3,7 @@
 ## Esityslista  
 Yleinen katsaus projektin etenemiseen.  
 * Ensimmäinen virustorjunnan ohitus suoritettu osittain.
-* 
+* PowerShell Empireen tutustuttu ja kokeiltu
   
 ## Paikallaolijat
 Tommi Timonen  
