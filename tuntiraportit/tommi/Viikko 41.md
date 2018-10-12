@@ -12,5 +12,7 @@ Viikkokokouksen pitäminen.
 Pikainen katsaus Mimikatziin, PowerShell työkaluihin ja Go Languageen.
 
 ### Perjantai 12.10.2018  
-* Klo 14:45- **yht: 0h**  
+* Klo 14:45-18:16 **yht: 3h 30min**  
+Custom .bat tiedostolla salasanojen varastamisen tutkimista. Ongelmana lähinnä tietojen anonyymi lähettäminen.  
+Muistiinpanoissa scriptin alku.
 
