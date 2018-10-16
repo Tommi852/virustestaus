@@ -1,6 +1,5 @@
-# Rapid7 Evasion module tutkimista ja testailua
+# Rapid7 Evasion module tutkimista
 
-## Taustaa
 Rapid7 on julkaissut uusimmassa metasploit versiossaan evasion moduulin, jonka tarkoituksena on piilottaa haittaohjelmat niin hyvin, että virustorjunnat eivät havaitse niitä.  
 Lyhyt kuvaus uudesta moduulista löytyy täältä: https://blog.rapid7.com/2018/10/09/introducing-metasploits-first-evasion-module/  
   
@@ -10,16 +9,7 @@ Jälkimmäisessä blogi postauksessa käydään hyvin läpi itsekkin miettimää
 Toisena hyvänä pointtina postauksessa oli base64 väärinkäytön määrä, jonka takia kaikki powershell.exeen syötettävät base64 enkoodatut komennot ovat välittömiä red flageja haittaohjelmasta.
   
 Tarkempi tekninen kuvaus evasion moduulin tekniikoista löytyy täältä: https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-whitepaper-metasploit-framework-encapsulating-av-techniques.pdf  
-
-
-## Aloitus
-Aloitin testaamisen lataamalla ja asentamalla Rapid7 metasploit-frameworkin uusimman version githubista komennoilla:
-
-```
-curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
-  chmod 755 msfinstall && \
-  ./msfinstall
-  ```
   
   
+Valitettavasti msf5 on toistaiseksi vielä työn alla, eikä sitä ole jaettu vielä yleiseen jakeluun.
   
