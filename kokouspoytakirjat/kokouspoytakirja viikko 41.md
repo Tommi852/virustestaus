@@ -32,6 +32,11 @@ Lopputulos: Mimikatzin tuntemus ja mahdollisesti hyödyntäminen tiedostojen var
 
 ## Kokousmuistio
 
+10.10.18 kokouksessa kävimme läpi paljon asioita liittyen projektiin, kuten erilaisia tekniikoita ja tapoja joilla lähestyä  
+aihetta. Ensiksi Tero ehdotti keyloggerin kokoeilua meterpreterillä joka jäi avoimeksi. Toinen ehdotus oli mimikaz joka löytyy   powershell empirestä ja miten sitä voisi hyödyntää. Kolmas isompi asia oli oma ohjelma joka suorittaisi yhden asian mikä tuli  
+yhdeksi viikon tavoitteista. 7-zip:in käyttöä virusturvan ohituksessa mietittiin mutta ei päätetty vielämitään. Kokouksessa  
+tuli paljon asioita mietittyä jotka kirjattiin ylös mutta ei sen enempää ainakaan vielä mietitty mutta tullaa todennäköisesti   palaamaan. 
+
 - keyloggerin kokeilu meterpreterillä  
 - windows 10 estää jtn powershell toimintoja  
 - tiedostojen lataus ja purkaminen  
