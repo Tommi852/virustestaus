@@ -9,6 +9,7 @@ Lisää tietoa haittaohjelman piilottamisesta löytyy täältä: https://blog.ra
 Jälkimmäisessä blogi postauksessa käydään hyvin läpi itsekkin miettimääni tekniikkaa, jossa haittaohjelma kryptattaisiin avaimella, mutta ohjelma osaisi itse avata kryptauksen. Postauksessa todetaankin, että tämä on hyvä taktiikka virustorjunnan staattisen skannauksen ehkäisemiseksi, mutta ohjelmaa pyörittäessä virustorjunnat havaitsevat ohjelman käyttäytymisen ja osaavat estää sen.  
 Toisena hyvänä pointtina postauksessa oli base64 väärinkäytön määrä, jonka takia kaikki powershell.exeen syötettävät base64 enkoodatut komennot ovat välittömiä red flageja haittaohjelmasta.
   
+Tarkempi tekninen kuvaus evasion moduulin tekniikoista löytyy täältä: https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-whitepaper-metasploit-framework-encapsulating-av-techniques.pdf  
 
 
 ## Aloitus
