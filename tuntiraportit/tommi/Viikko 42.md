@@ -5,3 +5,5 @@
 Metasploitin evade moduuleista lukemista.  
 ftp palvelimeen anon uploadin asettamista custom scriptin tiedostojen vastaanottoa varten.  
 
+#### Keskiviikko 17.10.2018
+* Klo 18:30- **yht: h**  
