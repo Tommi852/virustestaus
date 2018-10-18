@@ -13,4 +13,6 @@ VSFTPD palvelin ei tahdo vastaanottaa tiedostoja.
 * Klo 18:30-21:45 **yht: 3h 15min**  
 VSFTPD daemonin kanssa taistelua taas.  
 Viikkoraportin palautus.  
-FTP yhteys periaatteessa toimii, mutta windowsin FTP clientti ei jostain syystä halua lähettää tiedostoja.
+FTP yhteys periaatteessa toimii, mutta windowsin FTP clientti ei jostain syystä halua lähettää tiedostoja.  
+  
+* Klo 22:45- **yht: h**  
