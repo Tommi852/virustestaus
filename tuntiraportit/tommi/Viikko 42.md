@@ -15,4 +15,8 @@ VSFTPD daemonin kanssa taistelua taas.
 Viikkoraportin palautus.  
 FTP yhteys periaatteessa toimii, mutta windowsin FTP clientti ei jostain syystä halua lähettää tiedostoja.  
   
-* Klo 22:45- **yht: h**  
+* Klo 22:45-00:00 **yht: 1h 15min**  
+FTP yhteys toimii osittain.  
+Yhteys katkeaa keskenkaiken ja .zip menee perille korruptoituneena.  
+Passive moodissa vika?
+
