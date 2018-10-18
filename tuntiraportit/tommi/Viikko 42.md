@@ -7,4 +7,8 @@ ftp palvelimeen anon uploadin asettamista custom scriptin tiedostojen vastaanott
 
 #### Keskiviikko 17.10.2018
 * Klo 18:30-20:00 **yht: 1h 30min**  
-VSFTPD palvelin ei tahdo vastaanottaa tiedostoja.
+VSFTPD palvelin ei tahdo vastaanottaa tiedostoja.  
+
+#### Torstai 18.10.2018
+* Klo 18:30- **yht: h min**  
+VSFTPD daemonin kanssa taistelua taas.
