@@ -12,3 +12,4 @@ VSFTPD palvelin ei tahdo vastaanottaa tiedostoja.
 #### Torstai 18.10.2018
 * Klo 18:30- **yht: h min**  
 VSFTPD daemonin kanssa taistelua taas.
+Viikkoraportin palautus.
