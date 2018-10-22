@@ -4,3 +4,7 @@
 * Klo 13:00-15:00 **yht: 2h**  
 FTP siirron ongelma selvisi. Ongelmana oli VirtualBoxin NAT verkkoasetukset. Korjautui vaihtamalla bridged yhteyteen.  
 Vielä pitää vähän kansion oikeuksia hioa, niin alkaa ohjelma toimimaan.
+  
+#### Maanantai 22.10.2018
+* Klo 16:30- **yht: h**  
+
