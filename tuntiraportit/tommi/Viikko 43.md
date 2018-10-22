@@ -6,5 +6,6 @@ FTP siirron ongelma selvisi. Ongelmana oli VirtualBoxin NAT verkkoasetukset. Kor
 Vielä pitää vähän kansion oikeuksia hioa, niin alkaa ohjelma toimimaan.
   
 #### Maanantai 22.10.2018
-* Klo 16:30- **yht: h**  
-
+* Klo 16:30-19:15 **yht: 2h 45min**  
+Onnistuneesti ja huomaamattomasti kopioitu ja lähetetty firefox salasanat kohteelta omalle koneelle.  
+Tehty dokumentaatio scriptistä.
