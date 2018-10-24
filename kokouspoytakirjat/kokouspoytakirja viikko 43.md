@@ -5,8 +5,8 @@ Yleinen katsaus projektin etenemiseen.
 * Custom .bat, joka kopioi ja lähettää firefox salasana tiedostot, toimii eikä virustorjunnat havaitse sitä. (Palomuuri ilmoitus kuitenkin tulee).  
 * Kannattaako keskittyä vielä salasanojen avaamiseen vai ihan vain varastamiseen?  
 * Rapid7 lukemista ja mimikatziin tutustumista.  
-Vinkkejä batchi tiedostoon.  
-Ideoita tai kehitettävää.  
+* Vinkkejä batchi tiedostoon.  
+* Ideoita tai kehitettävää.  
   
 ## Paikallaolijat
 Tommi Timonen  
