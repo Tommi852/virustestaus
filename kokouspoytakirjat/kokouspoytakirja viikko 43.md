@@ -40,6 +40,7 @@ Lopputulos:
 - moduulin teko tuomaan lisäkiintoa projektiin
 - koodia ylävirtaan?
 - social engineerist neuvoi hommaamaa?
+- Vanhan ajurin haavoittuvuuden käyttämistä windows smartscreenin ohittamiseen.
 
 
 
