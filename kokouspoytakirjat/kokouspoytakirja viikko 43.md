@@ -29,5 +29,18 @@ Lopputulos:
 
 ## Kokousmuistio
 
+- Tommin ftp wörkkii
+- hack5 powershellillä yhteyden sulku
+- webbiselaimella get pyyntö? IE? Firefox?
+- active ja passive ftp
+- promptin poisto prioriteetti?
+- http asiakasyhteys ?
+- ftpn vajaatoiminta, kannattaa miettiä eri tapaa
+- metasploitin lisäosat helppoja
+- moduulin teko tuomaan lisäkiintoa projektiin
+- koodia ylävirtaan?
+- social engineerist läpi?
+- 
+
 
 
