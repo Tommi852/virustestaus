@@ -19,9 +19,9 @@ Tapaaminen luokassa 5004
 
 Tehtävä 1:  
 Kuvaus:  
-Tekijät: 
-Määräaika: 
-Lopputulos: 
+Tekijät:  
+Määräaika:  
+Lopputulos:  
 
 
 
