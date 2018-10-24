@@ -11,5 +11,5 @@ Onnistuneesti ja huomaamattomasti kopioitu ja lähetetty firefox salasanat kohte
 Tehty dokumentaatio scriptistä.  
 
 #### Keskiviikko 24.10.2018
-* Klo 11:30- **yht: **  
+* Klo 11:30- **yht: h**  
 Viikkokokous.  
