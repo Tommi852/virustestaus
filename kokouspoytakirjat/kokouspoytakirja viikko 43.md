@@ -39,8 +39,8 @@ Lopputulos:
 - metasploitin lisäosat helppoja
 - moduulin teko tuomaan lisäkiintoa projektiin
 - koodia ylävirtaan?
-- social engineerist läpi?
-- 
+- social engineerist neuvoi hommaamaa?
+
 
 
 
