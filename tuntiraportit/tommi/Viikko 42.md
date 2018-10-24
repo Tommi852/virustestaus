@@ -20,3 +20,4 @@ FTP yhteys toimii osittain.
 Yhteys katkeaa keskenkaiken ja .zip menee perille korruptoituneena.  
 Passive moodissa vika?
 
+## Yhteensä: 9h
