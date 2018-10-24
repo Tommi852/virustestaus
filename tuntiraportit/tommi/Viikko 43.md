@@ -8,4 +8,8 @@ Vielä pitää vähän kansion oikeuksia hioa, niin alkaa ohjelma toimimaan.
 #### Maanantai 22.10.2018
 * Klo 16:30-19:15 **yht: 2h 45min**  
 Onnistuneesti ja huomaamattomasti kopioitu ja lähetetty firefox salasanat kohteelta omalle koneelle.  
-Tehty dokumentaatio scriptistä.
+Tehty dokumentaatio scriptistä.  
+
+#### Keskiviikko 24.10.2018
+* Klo 11:30- **yht: **  
+Viikkokokous.  
