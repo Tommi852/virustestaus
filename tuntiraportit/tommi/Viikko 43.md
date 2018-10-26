@@ -17,4 +17,6 @@ Palomuuri prompti ohitettu ja lisätty itsetuho koodiin.
 Dokumentaatioon päivitetty uudet jutut.
 
 #### Perjantai 26.10.2018
-* Klo 15:30- **yht: h**  
+* Klo 15:30-17:30 **yht: 2h**  
+Tutkittu exen allekirjoittamista smartscreenin ohittamiseksi. Toistaiseksi ei vielä löytynyt hyvää tapaa.  
+Naamioitu .bat tiedosto exe tiedostoksi iconilla varustettuna.
