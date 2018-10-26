@@ -15,3 +15,6 @@ Tehty dokumentaatio scriptistä.
 Viikkokokous.  
 Palomuuri prompti ohitettu ja lisätty itsetuho koodiin.  
 Dokumentaatioon päivitetty uudet jutut.
+
+#### Perjantai 26.10.2018
+* Klo 15:30- **yht: h**  
