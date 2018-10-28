@@ -42,6 +42,11 @@ Lopputulos:
 - social engineerist neuvoi hommaamaa?
 - Vanhan ajurin haavoittuvuuden käyttämistä windows smartscreenin ohittamiseen.
 
+Pidimme ohjauskokouksen Teron läsnäollessa 24.10. jossa kävimme läpi esityslistan ja muuta aiheeseen liittyvää jotka  
+kirjasimme muistioon ylös. Ensimmäisenä Tommin ftp yhteydellä toimiva hyökkäys hyödyntäen bat tiedostoa toimii ja ohittaa   virusturvan, ainoastaan windows smartscreen tunnisti että bat tiedosto ei ole tunnetulta julkaisijalta. Tero ehdotti   miettimään/kokeilemaan webbiselaimella hyökkäystä get pyynnön avulla IE:ssä taikka Firefoxissa. Terolta tuli eri ehdotuksia   yhteyksistä ja tavoista jälleen mitäkäyttää kuten http asiakasyteys(client connection?) sekä kertoi huomautti ftp:n   vajaatoiminnasta. Lopuksi Tommi kyseli Terolta kuinka vaikeaa oman moduulin teko olisi, Tero kertoi metasploitin lisäosien   olevan hyvä lähtökohta tätä varten. Lopuksi ilmoille tuli ajatus että mitä jos saisimme jotain koodia ylävirtaan ja sitä kautta  
+neuvoa joltain konkareilta. Ja ennenkuin kokous loppui Tommi tai Tero heitti ilmoille ajatuksen että jonkin vanhan ajurin  
+käyttö voisi olla kiertotie windows smartscreenin ohittamiseen.  
+
 
 
 
