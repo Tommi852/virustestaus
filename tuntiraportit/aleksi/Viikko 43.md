@@ -6,4 +6,4 @@
 Ohjauskokous ja tunnilla sähläämistä  
 
 #### Sunnuntai 28.10.2018
-* Klo 17:00- **yht: ** 
+* Klo 16:00- **yht: ** 
