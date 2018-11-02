@@ -248,7 +248,7 @@ DEL "%~f0" && EXIT
 
 ### Päivitys 02.11.2018
 Kokeilin saada ohitettua Windowsin SmartScreenin SigThief nimisellä python scriptillä, joka kopio signaturen aidosta exestä ja liittää sen toiseen exeen.  
-Tämä ei tuottanut tulosta.  
+Tämä ei tuottanut tulosta ainakaan SteamSetup.exe:stä otetulla signaturella. IE.exe valittikin, että tiedostossa on korruptoitunut allekirjoitus, mutta FireFox latasi tiedoston ilman turhia mutinoita.
 SigThiefin repository löytyy täältä: https://github.com/secretsquirrel/SigThief
 
 
