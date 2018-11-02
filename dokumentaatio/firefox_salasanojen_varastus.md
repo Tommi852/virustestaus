@@ -52,7 +52,7 @@ Jouduin kuitenkin korjaamaan hieman kansioiden oikeuksia, jotta tiedostoja pysty
 Aluksi loin /tmp/ kansioon kyseisen tiedosto sala, johon annoin omistajuuden ftp käyttäjälle ja vain luku oikeudet komennolla:
 ```
 sudo chown -R ftp:nogroup /tmp/sala
-sudo chmod 555 ftp -R /tmp/sala
+sudo chmod 555 -R /tmp/sala
 ```
 Kokeilin yhteyttä ja tiedoston lähettämistä Kalilla FileZillalla. Yhteys aukesi nätisti, mutta tiedostoa en saanut lähetettyä, vaan FileZilla valitti ettei ole oikeutta kirjoittaa kansioon.  
 Pienen tutkinna jälkeen selvisi, että VSFTPD ei anna kirjoittaa käyttäjälle annettuun juuri polkuun ja kansiolla ei edes ollut kirjoitus oikeuksia.
@@ -61,7 +61,7 @@ Tein siis uuden kansion sala kansion alle, jonka nimesin "salasanat".
 Siirsin salasanat kansion oikeudet ftp käyttäjälle ja annoin tälle kansiolle kirjoitusoikeudetkin komennoilla:
 ```
 sudo chown -R ftp:nogroup /tmp/sala/salasanat
-sudo chmod 755 ftp -R /tmp/sala/salasanat
+sudo chmod 755 -R /tmp/sala/salasanat
 ```
 Nyt FileZilla pystyi lähettämään tiedoston nätisti salasanat kansioon.  
   
