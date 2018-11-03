@@ -4,3 +4,6 @@
 * Klo 14:30-16:30 **yht: 2h**  
 Smartscreenin ohittamisen tutkimista. SigThief ei toiminut.  
 
+
+#### Lauantai 03.11.2018
+* Klo 16:00- **yht: h** 
