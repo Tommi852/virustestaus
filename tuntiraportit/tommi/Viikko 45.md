@@ -6,7 +6,7 @@ Epäonnistunut yritys smartscreenin ohituksessa putty.exeen haittaohjelman piilo
 Tutkittu ajurien haavoittuvuuksien käyttöä smartscreenin ohittamiseen: https://www.sekoia.fr/blog/windows-driver-signing-bypass-by-derusbi/  
 
 #### Keskiviikko 07.11.2018
-* Klo 11:45-  **yht: h min**  
+* Klo 11:45-14:00  **yht: 2h 15min**  
 Viikkokokous.  
 Uuteen VirtualBox nolla päivä haavoittuvuuteen tutustuminen.  
-
+Haittaohjelman tunnistamiseen tutustumista.  
