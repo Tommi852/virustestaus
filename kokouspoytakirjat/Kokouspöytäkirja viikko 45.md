@@ -1,4 +1,4 @@
-# Kokouspöytäkirja viikko 44, Keskiviikko 24.10.2018  
+# Kokouspöytäkirja viikko 45, Keskiviikko 07.11.2018  
 
 ## Esityslista  
 Yleinen katsaus projektin etenemiseen.
@@ -11,7 +11,7 @@ Tero Karvinen
 Tapaaminen luokassa 5004  
 
   
-## Viikon 44 tehtävät:  
+## Viikon 45 tehtävät:  
 
 Tehtävä 1:  
 Kuvaus:  
