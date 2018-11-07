@@ -26,3 +26,5 @@ scp C:\salasanat\salasanat.zip restricted@127.0.0.1:/home/restricted/.
 pause
 ```
 
+Sääntöjen teko:
+https://seanthegeek.net/257/install-yara-write-yara-rules/
