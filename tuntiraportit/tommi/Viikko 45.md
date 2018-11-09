@@ -10,3 +10,9 @@ Tutkittu ajurien haavoittuvuuksien käyttöä smartscreenin ohittamiseen: https:
 Viikkokokous.  
 Uuteen VirtualBox nolla päivä haavoittuvuuteen tutustuminen.  
 Haittaohjelman tunnistamiseen tutustumista.  
+
+#### Keskiviikko 07.11.2018
+* Klo 16:15-  **yht: h **  
+
+
+
