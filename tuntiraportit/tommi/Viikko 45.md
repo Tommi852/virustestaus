@@ -12,7 +12,7 @@ Uuteen VirtualBox nolla päivä haavoittuvuuteen tutustuminen.
 Haittaohjelman tunnistamiseen tutustumista.  
 
 #### Keskiviikko 07.11.2018
-* Klo 16:00-   **yht: h **  
+* Klo 16:00-18:00   **yht: 2h **  
 
 
 
