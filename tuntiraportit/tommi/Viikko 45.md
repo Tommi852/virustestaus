@@ -13,6 +13,8 @@ Haittaohjelman tunnistamiseen tutustumista.
 
 #### Keskiviikko 07.11.2018
 * Klo 16:00-18:00 **yht: 2h**  
+Pikainen katsaus moduulien tekoon metasploittiin.  
 
+### Yhteensä: 6h 45min
 
 
