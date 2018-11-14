@@ -29,6 +29,8 @@ Pikainen katsaus moduulien tekoon metasploittiin.
 #### Sunnuntai 11.11.2018  
 * Klo 21:00-12:00 **yht: 3h**  
 
+### Yhteensä: 7h
+
 
 ## Viikon yhteenveto
 Smartscreenin ohituksesta luovuttu. Siirrytään moduulin ja IDS sääntöjen tekoon.  
