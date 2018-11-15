@@ -5,3 +5,5 @@
 Tutustuin SEToolkitin moduulin tekoon: https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf  
 Koitin tehdä ohjeissa ollutta esimerkkiä, mutta sain virheen: [!] There was an issue with a module: name 'demo_moduuli' is not defined.  
 
+#### Torstai 12.11.2018
+* Klo 11:30- **yht: h**  
