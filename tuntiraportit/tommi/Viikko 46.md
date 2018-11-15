@@ -6,4 +6,7 @@ Tutustuin SEToolkitin moduulin tekoon: https://github.com/trustedsec/social-engi
 Koitin tehdä ohjeissa ollutta esimerkkiä, mutta sain virheen: [!] There was an issue with a module: name 'demo_moduuli' is not defined.  
 
 #### Torstai 12.11.2018
-* Klo 11:30- **yht: h**  
+* Klo 11:30-15:30 **yht: 4h**  
+SEToolkitin moduulien teosta löytyy erittäin heikko dokumentaatio.  
+Tutkin meterpreterin moduulin tekoa, josta löytyi paljon kattavampi dokumentaatio, sekä enemmän esimerkki moduuleja.  
+
