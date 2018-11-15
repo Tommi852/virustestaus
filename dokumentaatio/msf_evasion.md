@@ -1,6 +1,6 @@
 # Rapid7 Evasion module tutkimista
 
-Rapid7 on julkaissut uusimmassa metasploit versiossaan evasion moduulin, jonka tarkoituksena on piilottaa haittaohjelmat niin hyvin, että virustorjunnat eivät havaitse niitä.  
+Rapid7 on lisännyt uusimmassa metasploit versiossaan evasion moduulin, jonka tarkoituksena on piilottaa haittaohjelmat niin hyvin, että virustorjunnat eivät havaitse niitä.  
 Lyhyt kuvaus uudesta moduulista löytyy täältä: https://blog.rapid7.com/2018/10/09/introducing-metasploits-first-evasion-module/  
   
 Lisää tietoa haittaohjelman piilottamisesta löytyy täältä: https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/  
