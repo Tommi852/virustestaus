@@ -261,6 +261,12 @@ Komento jota koitin käyttää ohittamiseen:
 sudo msfvenom --payload generic/custom PAYLOADFILE=/home/anon/haittaohjelma/varasPerus.exe -a x64 --template putty.exe --keep -f exe -e x86/shikata_ga_nai -i 56 --out puttyVaras.exe
 ```
 
+### Päivitys 20.11.2018
+  
+Pitkän tutkiskelun jälkeen totesin, että metasploitin moduulit on paremmin dokumentoitu ja muutenkin metasploitin moduulien teosta löytyy paljon enemmän juttua netistä, kuin SEToolkitistä.  
+Näin ollen päätin, että tehdä moduulin metasploitille.  
+Otin moduulini pohjaksi post/windows/gather/enum_files.rb, koska sillä voi itsessään hakea ja ladata tiedostoja kohteesta.  
+Käytän siis osaa siinä valmiiksi olevista ominaisuuksista, mutta muuta sen lataamaan vain firefoxin salasanat nopeasti ilman että polkuja täytyy erikseen määritellä.  
 
 
 
