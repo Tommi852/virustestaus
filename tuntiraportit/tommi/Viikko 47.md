@@ -9,4 +9,4 @@ Tutustuttu enum_filesin soossiin ja todettu suht helposti muokattavaksi.
 
 
 #### Torstai 22.11.2018
-* Klo 14:45- **yht: h**  
+* Klo 14:45-17:15 **yht: 2h 30min**  
