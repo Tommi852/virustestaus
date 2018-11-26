@@ -15,4 +15,11 @@ Lisää enum_filesin lähdekoodin tutkimista ja miettimistä miten se saadaan to
 
 
 #### Perjantai 23.11.2018
-* Klo 10:45- **yht: h min**  
+* Klo 10:45-13:30 **yht: 2h 45min**  
+Koitettu muuttaa koodia omiin tarkoituksiin ja testailtu koodin yksittäisiä osia ja niiden toimivuutta.  
+Koodi menee näköjään hyvin helposti rikki, sillä yksittäiset arvojen muuttamisetkin rikkoivat sen kokonaan eikä esimerkiksi armitage suostunut enään avaamaan edes valinta ikkunaa sille.  
+Tutkiminen jatkuu.
+  
+  
+  
+### Tunnit yhteensä: 10h 15min
