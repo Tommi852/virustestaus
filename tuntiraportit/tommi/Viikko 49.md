@@ -5,4 +5,5 @@
 Koodin väkerrystä.
   
 #### Perjantai 07.12.2018
-* klo 13:00-
+* klo 13:00-16:00
+
