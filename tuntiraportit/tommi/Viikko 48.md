@@ -6,4 +6,7 @@ Tökitty taas enum_filesin soossia ja koitettu muuttaa eri kohtia, jotta ymmärt
 Toistaiseksi vielä rikottu monta kertaa ilman onnistumista.  
   
 #### Perjantai 01.12.2018
-* Klo 15:00- **yht: 0h**  
+* Klo 15:00-18:00 **yht: 3h**  
+Pieniä onnistumisia koodin muuttamisen kanssa, mutta ei mitään edistyksellistä.
+
+### Yhteensä: 7h
