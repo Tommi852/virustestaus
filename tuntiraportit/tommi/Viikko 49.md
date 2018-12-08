@@ -5,5 +5,10 @@
 Koodin väkerrystä.
   
 #### Perjantai 07.12.2018
-* klo 13:00-16:00
+* klo 13:00-16:00 **yht: 3h**
+Enum_files saatu muutettua niin, että se osaa hakea firefox salasanat.  
+Seuraavaksi dokumentaation kirjoitusta.
+  
+#### PLauantai 08.12.2018
+* klo 14:00- **yht: h**
 
