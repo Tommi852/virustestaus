@@ -86,3 +86,8 @@ Tein dokumentaation koneen oletusasetuksilla, mutta niitä voi muuttaa itselleen
   
 Kun kone saatiin pyörimään, niin siihen asennettiin Firefox heidän omilta sivuiltaan, jonka jälkeen täytettiin tallennettuja salasanoja. Salasanoja saatiin tallennettua käymällä satunnaisella sivulla ja laittamalla kirjautumisikkunaan satunnainen käyttäjätunnus ja salasana. Kun painettiin kirjaudu Firefox ehdotti käyttäjän tallentamista, johon vastasimme kyllä. Vaikka emme oikeasti kirjautuneet sivulle, niin Firefox tallensi käyttäjätunnukset muistiin ja nyt voimme yrittää varastaa niitä sieltä.
       
+  
+Kun salasanat oli tallennettu, niin asensimme siihen Kasperskyn virustorjunnan.
+  
+Teimme myös toisen koneen, johon asensimme Avastin virustorjunnan.  
+Kummastakin virustorjunnasta käytössä oli ilmainen versio.
