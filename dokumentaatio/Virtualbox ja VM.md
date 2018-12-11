@@ -62,30 +62,27 @@ Asennus on valmis joten avataan ohjelma.
 
 ![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-13.jpg)
 
-Aloitus näyttää tältä.  
-
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-14.jpg)
 
 Tähän mennessä virtuaalikoneeni extractaus oli tehty joten mennään sen asennuskansioon ja avatan sovelluksessa virtualbox.  
 
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-15.jpg)
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-14.jpg)
 
 Valitaan virtualbox manageri.  
 
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-16.jpg)
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-15.jpg)
 
 Sovelluksessa avattaessa avautuu toinen ikkuna virtualboxille joten vanhan voi sulkea.  
 Tässä vaiheessa voidaan asettaa haluamat asetukset virtuaalikoneelle.  
 
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-17.jpg)
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-16.jpg)
 
 Koneen importtauksessa menee tovi.  
 
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-18.jpg)
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-17.jpg)
 
 Tein dokumentaation koneen oletusasetuksilla, mutta niitä voi muuttaa itselleen sopivimmiksi.  
 
-![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-19.jpg)
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-18.jpg)
 
 
       
