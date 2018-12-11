@@ -17,7 +17,9 @@ Aikaisemmassa dokumentaatiossa kävi ilmi, että Firefox säilyttää tallennett
 Tarvitsemme siis molemmat tiedostot, jos haluamme avata salasanat.
   
 Aloin tutkimaan miten saisin haettua tiedostot helposti, kun törmäsin metasploitissa olevaan post exploittiin nimeltä **enum_files**. Enum_filesilla pystyi hakemaan tietyltä kovalevyltä kaikki tiedostot, jotka vastasivat hakuun annettua tiedoston nimeä.  
-Testasin enum_filesin toimintaa antamalla haettavaksi tiedostoksi key*.db. Tähtimerkinnällä viitataan siihen, ettei tiedetä mikä numero key*.db tiedoston nimessä on, joten moduuli hakee kaikki kuvaukseen sopivat tiedostot. Firefoxissa tosin pitäisi olla vain yksi key*.db per profiili, joten tämä ei tuota ongelmia. Haettavaksi kohteeksi asetin koko C:/ aseman.  
+Testasin enum_filesin toimintaa antamalla haettavaksi tiedostoksi key*.db. Tähtimerkinnällä viitataan siihen, ettei tiedetä mikä numero key*.db tiedoston nimessä on, joten moduuli hakee kaikki kuvaukseen sopivat tiedostot. Firefoxissa tosin pitäisi olla vain yksi key*.db per profiili, joten tämä ei tuota ongelmia. Haettavaksi kohteeksi asetin koko C:/ aseman. 
+
+![Haku ikkuna](https://github.com/Tommi852/virustestaus/raw/master/media/enum_files_original.png)
   
 Enum_files löysikin firefoxin key*.db tiedoston ja latasi sen. Moduulissa oli tosin ongelmana se, että se osasi ladata vain yhden tiedoston kerrallaan. Kokeilin erilaisia tapoja saada sitä lataamaan useamman tiedoston, kuten antamalla haettavaksi kohteeksi **key*.db && logins.json**, mutta tuloksetta. Näin ollen päätin, että minun pitää kustomoida moduulin koodia, jotta se toimii niinkuin haluan.
   
