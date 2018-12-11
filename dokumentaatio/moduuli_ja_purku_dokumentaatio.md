@@ -93,6 +93,6 @@ Tiedostossa näkyvät purkamisen jälkeen salasanat ja käyttäjätunnukset selk
 
 ![Puretut salasanat](https://github.com/Tommi852/virustestaus/raw/master/media/salasanat_purettu.png)
 
-
+Salasanojen purkaminen ja oman haittaohjelman käytön demo video löytyy täältä: https://www.youtube.com/watch?v=Tl5hzPOpOzg
 
 
