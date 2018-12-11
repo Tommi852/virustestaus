@@ -10,6 +10,8 @@ Asetimme minkä OS:sän haluamme ja millä ohjelmalla sitä käytetään jatkoss
 ei haittaa, sillä tallennamme siitä snapshotin, josta voimme aina aloittaa testauksen uudelleen ilman,  
 että virusturvat päivittyisivät.  
 
+![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-1.jpg)
+
 Toisessa kuvassa nähdään että tidosto tulee zip. muodossa,  
 joka pitää purkaa latauksen jälkeen jollain sille tarkoitetulla ohjelmalla.  
 
