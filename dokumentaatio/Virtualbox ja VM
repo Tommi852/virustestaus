@@ -1,0 +1,13 @@
+# Virtuaalikoneen ja Virtualboxin asennus sekä käyttö  
+
+## Esittely
+Dokumentaation tavoitteena on ohjeistaa uutta käyttäjää asentamaan tarvittavat työkalut ja ohjelmat  
+virtuaalikoneen käyttämiseen, sekä demonstroimaan miten suunnilleen me sen teimme.  
+
+## Ohjeet
+Ensimmäisessä kuvassa näkyy että suuntasimme microsoftin sivuilta hakemaan virtuaalikonetta.  
+Asetimme minkä OS:sän haluamme ja millä ohjelmalla sitä käytetään jatkossa. Se että virtuaalikone vanhenee 90 päivän kuluessa  
+ei haittaa, sillä tallennamme siitä snapshotin, josta voimme aina aloittaa testauksen uudelleen ilman,  
+että virusturvat päivittyisivät.  
+
+      
