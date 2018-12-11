@@ -86,12 +86,12 @@ Ff-password-exporter, jolla oli mainittu erikseen, että se tukee Firefox58+ ver
 Ff-password-exporterin käyttö oli erittäin suoraviivaista. Ohjelmalle piti aluksi antaa suoritus oikeudet, joka onnistuu esimerkiksi klikkaamalla oikealla kuvaketta ja laittamalla ruksin execute kohtaan permissions välilehdellä.  
 Tämän jälkeen ohjelman pystyi suorittamaan ja ohjelmasta valittiin vain kansio, jossa key4.db ja logins.json ovat. Koska käytössä ei ollut master passwordia, niin voi kentän jättää tyhjäksi.  
 
-(kuva)
+![FF-password-exporter ikkuna](https://github.com/Tommi852/virustestaus/raw/master/media/FF-password-exporter.png)
 
 Tämän jälkeen ohjelma kysyy mihin kansioon tulokset halutaan tallentaa ja missä muodossa (json tai CSV).  
 Tiedostossa näkyvät purkamisen jälkeen salasanat ja käyttäjätunnukset selkokielisenä.
 
-(kuva)
+![Puretut salasanat](https://github.com/Tommi852/virustestaus/raw/master/media/salasanat_purettu.png)
 
 
 
