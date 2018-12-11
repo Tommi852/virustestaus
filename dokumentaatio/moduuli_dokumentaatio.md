@@ -17,10 +17,16 @@ Aikaisemmassa dokumentaatiossa kävi ilmi, että Firefox säilyttää tallennett
 Tarvitsemme siis molemmat tiedostot, jos haluamme avata salasanat.
   
 Aloin tutkimaan miten saisin haettua tiedostot helposti, kun törmäsin metasploitissa olevaan post exploittiin nimeltä **enum_files**. Enum_filesilla pystyi hakemaan tietyltä kovalevyltä kaikki tiedostot, jotka vastasivat hakuun annettua tiedoston nimeä.  
-Testasin enum_filesin toimintaa antamalla haettavaksi tiedostoksi key*.db. Tähtimerkinnällä viitataan siihen, ettei tiedetä mikä numero key*.db tiedoston nimessä on, joten moduuli hakee kaikki kuvaukseen sopivat tiedostot. Firefoxissa tosin pitäisi olla vain yksi key*.db per profiili, joten tämä ei tuota ongelmia. Haettavaksi kohteeksi asetin koko C:/ aseman.  
+Testasin enum_filesin toimintaa antamalla haettavaksi tiedostoksi key*.db. Tähtimerkinnällä viitataan siihen, ettei tiedetä mikä numero key*.db tiedoston nimessä on, joten moduuli hakee kaikki kuvaukseen sopivat tiedostot. Firefoxissa tosin pitäisi olla vain yksi key*.db per profiili, joten tämä ei tuota ongelmia. Haettavaksi kohteeksi asetin koko C:/ aseman. 
+
+![Haku ikkuna](https://github.com/Tommi852/virustestaus/raw/master/media/enum_files_original.png)
+
+![Haku komentorivillä](https://github.com/Tommi852/virustestaus/raw/master/media/Enum_files_haku.png)
   
 Enum_files löysikin firefoxin key*.db tiedoston ja latasi sen. Moduulissa oli tosin ongelmana se, että se osasi ladata vain yhden tiedoston kerrallaan. Kokeilin erilaisia tapoja saada sitä lataamaan useamman tiedoston, kuten antamalla haettavaksi kohteeksi **key*.db && logins.json**, mutta tuloksetta. Näin ollen päätin, että minun pitää kustomoida moduulin koodia, jotta se toimii niinkuin haluan.
-  
+
+ 
+ 
 Enum_filesin koodi on kirjoitettu Rubylla ja se löytyy polusta: /usr/share/metasploit-framework/modules/post/windows/gather/enum_files.rb. Polku voi vaihdella, jos metasploit on rakennettu toiselle distrolle tai githubin kautta. 
   
 Kopioin enum_files.rb tiedoston polkuun: ~/.msf4/modules/post/windows/gather/, joka on tarkoitettu nimenomaan metasploit moduulien kehittämistä varten ja kolmannen osapuolen moduuleja varten.  
@@ -55,7 +61,13 @@ Tämän jälkeen loin koodin uudelle FILE_GLOBS2 vaihtoehdolle, että sekin haet
 ```
 Koodi on siis täysin sama, kuin mikä oli FILE_GLOBS vaihtoehdolle, mutta eri datastorella.  
 Tämä ei ole puhtain tai optimaalisin tapa toimia, sillä nyt koodi hakee uudestaan kovalevyltä tätä tosita tiedostoa ja lataa sitten sen, vaikka tiedostot ovat täysin samassa polussa. Jouduin kutienkin tyytymään tähän ratkaisuun, sillä en ymmärrä tarpeeksi Rubya, että osaisin rakentaa tämän optimaalisemmaksi ja näin tämä toimii.
+
+![FirefoxVaras ikkuna](https://github.com/Tommi852/virustestaus/raw/master/media/FirefoxVaras_ikkuna.png)
+
+![FirefoxVaras komentorivillä](https://github.com/Tommi852/virustestaus/raw/master/media/FirefoxVaras.png)
+
   
+Kokonaisuudessaan moduuli löytyy täältä: https://github.com/Tommi852/virustestaus/blob/master/moduuli/firefoxVaras.rb
 
 ## Tiedostojen purku.
 
@@ -74,12 +86,12 @@ Ff-password-exporter, jolla oli mainittu erikseen, että se tukee Firefox58+ ver
 Ff-password-exporterin käyttö oli erittäin suoraviivaista. Ohjelmalle piti aluksi antaa suoritus oikeudet, joka onnistuu esimerkiksi klikkaamalla oikealla kuvaketta ja laittamalla ruksin execute kohtaan permissions välilehdellä.  
 Tämän jälkeen ohjelman pystyi suorittamaan ja ohjelmasta valittiin vain kansio, jossa key4.db ja logins.json ovat. Koska käytössä ei ollut master passwordia, niin voi kentän jättää tyhjäksi.  
 
-(kuva)
+![FF-password-exporter ikkuna](https://github.com/Tommi852/virustestaus/raw/master/media/FF-password-exporter.png)
 
 Tämän jälkeen ohjelma kysyy mihin kansioon tulokset halutaan tallentaa ja missä muodossa (json tai CSV).  
 Tiedostossa näkyvät purkamisen jälkeen salasanat ja käyttäjätunnukset selkokielisenä.
 
-(kuva)
+![Puretut salasanat](https://github.com/Tommi852/virustestaus/raw/master/media/salasanat_purettu.png)
 
 
 
