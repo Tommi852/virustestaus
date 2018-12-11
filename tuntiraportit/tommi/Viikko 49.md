@@ -9,8 +9,9 @@ Koodin väkerrystä.
 Enum_files saatu muutettua niin, että se osaa hakea firefox salasanat.  
 Seuraavaksi dokumentaation kirjoitusta.
   
-#### PLauantai 08.12.2018
+#### Lauantai 08.12.2018
 * klo 14:00-18:00 **yht: 4h**
-
+Metasploit moduulin dokumentaation puhtaaksi kirjoitusta ja viimeistelyä.
+  
 #### Yhteensä tunteja: 11h
 
