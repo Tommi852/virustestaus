@@ -83,6 +83,6 @@ Koneen importtauksessa menee tovi.
 Tein dokumentaation koneen oletusasetuksilla, mutta niitä voi muuttaa itselleen sopivimmiksi.  
 
 ![Haku](https://github.com/Tommi852/virustestaus/blob/master/media/VM-18.jpg)
-
-
+  
+Kun kone saatiin pyörimään, niin siihen asennettiin Firefox heidän omilta sivuiltaan, jonka jälkeen täytettiin tallennettuja salasanoja. Salasanoja saatiin tallennettua käymällä satunnaisella sivulla ja laittamalla kirjautumisikkunaan satunnainen käyttäjätunnus ja salasana. Kun painettiin kirjaudu Firefox ehdotti käyttäjän tallentamista, johon vastasimme kyllä. Vaikka emme oikeasti kirjautuneet sivulle, niin Firefox tallensi käyttäjätunnukset muistiin ja nyt voimme yrittää varastaa niitä sieltä.
       
