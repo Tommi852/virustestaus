@@ -4,9 +4,12 @@
 
 Tässä on dokumentaatio metasploit moduulista, jonka tarkoitus on varastaa meterpreter yhteyden kautta Firefoxin salasana tiedostot.  
 Moduuli on rakennettu enum_files pohjalta ja on kokonaisuudessaan melko yksinkertainen.
+Tein mielummin oman moduulin enum_files pohjalta, sillä valmis firefox_cred moduuli lataa paljon ylimääräistä tavaraa ja halusin pitää liikenteen minimaalisena.  
+
 
 Työkaluina käytin Armitagea moduulin käyttämiseen, Virtualboxia testikoneen pyörittämiseen ja Virtualboxissa aikaisemmassa dokumentissa luotua testikonetta, sekä atomia moduulin tekemiseen.
 Käytettyyn testikoneeseen oli valmiiksi syötetty kaksi pseudo käyttäjätunnusta ja salasanaa, jotta moduuli oikeasti hakisin jotain kohteesta.
+Koska moduulia käytetään meterpreter yhteyden kautta, niin piti virustorjunnat ottaa pois päältä, että yhteys toimisi ja moduulia pystyisi käyttämään.
 
 ## Moduulin rakennus
 
@@ -63,8 +66,20 @@ Näin ollen muutin tiedostojen nimet hieman ymmärrettäviksi. Nimesin yhden .db
 Kopioin kummatkin tiedostot uuteen kansioon kotihakemistossa nimeltä "purku", jossa aijon purkaa nämä tiedostot oikeiksi salasanoiksi. Koska purkaminen olisi käsin melko työlästä, niin käytin apuna firefox_decrypt.py skriptiä, joka löytyy sen kehittäjän githubista osoitteesta: https://github.com/unode/firefox_decrypt  
 Nopealla silmäilyllä koodi ei näytä haitalliselta itselleni.
   
-Siirsin gitin mukana tulleen firefox_decrypt.py tiedoston myös "purku" kansioon. 
+Tiedostojen purkamisen piti onnistua komennolla: **python firefox_decrypt.py purku/**, mutta itse sain virheeksi: **ERROR - Couldn't initialize NSS, maybe '/root/purku' is not a valid profile?**  
+Tiedosto polku oli oikein, mutta ilmeisesti skripti olisi halunnut myös profile.ini tiedoston mukaan purkamiseksi. Kokeilin erilaisia tekniikoita, kuten NSS uudelleen asennuksen, mutta nämä eivät auttaneet.  
+Lopuksi löysin firefox_decryptistä tehdun forkin nimeltä ff-password-exporter, joka löytyy osoitteesta: https://github.com/kspearrin/ff-password-exporter
+  
+Ff-password-exporter, jolla oli mainittu erikseen, että se tukee Firefox58+ versioissa käytettyjä key4.db profiileja. Ff-password-exporter on firefox_decrypt.py pohjautuva spin-offi, jossa on graafinen käyttöliittymä.  
+Ff-password-exporterin käyttö oli erittäin suoraviivaista. Ohjelmalle piti aluksi antaa suoritus oikeudet, joka onnistuu esimerkiksi klikkaamalla oikealla kuvaketta ja laittamalla ruksin execute kohtaan permissions välilehdellä.  
+Tämän jälkeen ohjelman pystyi suorittamaan ja ohjelmasta valittiin vain kansio, jossa key4.db ja logins.json ovat. Koska käytössä ei ollut master passwordia, niin voi kentän jättää tyhjäksi.  
 
+(kuva)
+
+Tämän jälkeen ohjelma kysyy mihin kansioon tulokset halutaan tallentaa ja missä muodossa (json tai CSV).  
+Tiedostossa näkyvät purkamisen jälkeen salasanat ja käyttäjätunnukset selkokielisenä.
+
+(kuva)
 
 
 
