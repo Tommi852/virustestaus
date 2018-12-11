@@ -1,4 +1,4 @@
-# IDS esto säännöt
+# IDS havaitseminen ja estäminen
 
 ## Esittely
   
@@ -9,12 +9,12 @@ Tässä dokumentissa käydään läpi aikaisemmin luodun haittaohjelman tunnista
 Aluksi pitää tietää minkälaista dataa haittaohjelma lähettää. Tähän tuli avuksi Wireshark, joka näyttää kaikki verkossa liikkuvat paketit.  
 Koska tässä tapauksessa tiesin, että ohjelma käyttää ftp protokollaa, niin suodatin vain ftp protokollaa käyttävät paketit.
 
-(kuva)
+![Wireshark näkymä](https://github.com/Tommi852/virustestaus/raw/master/media/wireshark%20kaikki.png)
 
 Tarkemmin katsottuna yksi FTP paketeista näyttääkin infona, että se on lähettämässä salasanat.zip tiedostoa.
 Kopioin kyseisen pätkän HEX tunnuksen, jotta sitä voi käyttää paketin tunnistamiseen.
 
-(kuva)
+![Wireshark yksittäinen paketti](https://github.com/Tommi852/virustestaus/raw/master/media/wireshark%20paketti.png)
 
 ```
 0000   00 00 00 01 00 06 08 00 27 6a 59 ab 74 61 08 00   ........'jY«ta..
@@ -56,7 +56,7 @@ Nyt täytyi vain triggeröidä tuo sääntö, jonka loin joten toisessa konsoli 
 
 Kun laitoin pingin pyörimään niin Snort alkoikin pienellä viiveellä näyttämään, että se havaitsi säännön mukaisen ICMP paketin.
 
-(kuva)
+![Pingi havaittu](https://github.com/Tommi852/virustestaus/raw/master/media/ping%20havaittu.png)
 
 
 Tämän jälkeen loin säännön, joka tunnistaa haittaohjelman luoman tiedoston lähetys pyynnön.  
@@ -66,7 +66,7 @@ alert tcp any any -> any any (msg:"Salasana varas havaittu"; content:"STOR salas
 ```
 
 Ja säännön kohtaaminen näyttää tältä:
-(kuva varas havaittu)
+![Varas havaittu](https://github.com/Tommi852/virustestaus/raw/master/media/varas%20havaittu.png)
 
 Seuraavaksi siirryin tutkimaan miten tämä estetään.
   
