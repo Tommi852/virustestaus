@@ -28,3 +28,7 @@ pause
 
 Sääntöjen teko:
 https://seanthegeek.net/257/install-yara-write-yara-rules/
+
+
+
+https://haagahelia-my.sharepoint.com/:p:/g/personal/a1602743_myy_haaga-helia_fi/EcyHGCAV9vtFt9CqBE9-DnMBk9DlgjZt0v-QlWIfAV2qcA?e=UQFy52
